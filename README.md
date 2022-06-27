@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YoungSeok's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
-<p align="center">
-    <Strong>☁️blog☁️</Strong><br><br>
-</p>
 <center>
+        <Strong>☁️blog☁️</Strong><br><br>
 
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/wonwone567)](https://blog.naver.com/mana129)
 </center>
