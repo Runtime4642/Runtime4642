@@ -1,14 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YoungSeok's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YoungSeok's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
-<center>
-<p align="center">
+<div align=center>
     <Strong>☁️blog☁️</Strong><br><br>
-</p>
 
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/wonwone567)](https://blog.naver.com/mana129)
-</center>
 <br/>
+<div>
+
 <p align="center">    
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?q=Runtime4642&url=https%3A%2F%2Fgithub.com%2Fsearch&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
@@ -40,4 +39,6 @@
 <div align=center>
 
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Runtime4642&show_icons=true)
+
+</div>
 
